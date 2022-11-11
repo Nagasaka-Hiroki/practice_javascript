@@ -8,5 +8,6 @@ JavaScriptの学習。
 
 ## チュートリアル
 > - [http://jekyllrb-ja.github.io/docs/step-by-step/01-setup/](http://jekyllrb-ja.github.io/docs/step-by-step/01-setup/)  
-まず上記URLのチュートリアルをやっていく。
-
+まず上記URLのチュートリアルをやっていく。<br>
+`jekyll new .`で土台を作ってからチュートリアルを開始する。<br>
+（読み進めていくと`jekyll new .`で始めないほうが良さそうだがとりあえずそのまま進める)

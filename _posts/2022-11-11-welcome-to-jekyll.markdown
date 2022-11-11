@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: jekyll generator
 date:   2022-11-11 11:16:31 +0900
 categories: jekyll update
 ---
