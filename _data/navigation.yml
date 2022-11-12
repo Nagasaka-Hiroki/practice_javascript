@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /practice_javascript
 - name: About
-  link: /about.html
+  link: /practice_javascript/about.html
 - name: Blog
-  link: /blog.html
+  link: /practice_javascript/blog.html
 - name: Staff
-  link: /staff.html
+  link: /practice_javascript/staff.html

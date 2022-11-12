@@ -1,10 +1,5 @@
-# practice_javascript
-JavaScriptの学習。
-
-## 主な参考URL
-> - [MDN Web Docs](https://developer.mozilla.org/ja/)
-> - [JavaScript Primer](https://jsprimer.net/)
-> - [現代の JavaScript チュートリアル](https://ja.javascript.info/)
+# jekyllチュートリアル
+jekyllチュートリアルに取り組む。
 
 ## チュートリアル
 > - [http://jekyllrb-ja.github.io/docs/step-by-step/01-setup/](http://jekyllrb-ja.github.io/docs/step-by-step/01-setup/)  
@@ -35,3 +30,4 @@ url: "https://nagasaka-hiroki.github.io/practice_javascript"
 一応ローカル上では上手く行っている。  
 →GitHubでは上手く行かない。
 
+一度全部別で作り直してやってみる。
