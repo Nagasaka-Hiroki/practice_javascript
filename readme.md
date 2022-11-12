@@ -32,4 +32,6 @@ url: "https://nagasaka-hiroki.github.io"
 baseurl: ""
 url: "https://nagasaka-hiroki.github.io/practice_javascript"
 ```
-一応ローカル上では上手く行っている。
+一応ローカル上では上手く行っている。  
+→GitHubでは上手く行かない。
+
