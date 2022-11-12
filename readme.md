@@ -23,3 +23,13 @@ JavaScriptの学習。
 baseurl: "/practice_javascript"
 url: "https://nagasaka-hiroki.github.io"
 ```
+上手く行かない。アクセスするURLを変えると上手く表示できているのでURLの設定を誤っている。  
+`_data/navigation.yml`を編集して設定してみる。  
+→本質的な原因でなさそう。元に戻す。
+
+`_config.yml`の`baseurl`と`url`を以下の値に設定した。
+```
+baseurl: ""
+url: "https://nagasaka-hiroki.github.io/practice_javascript"
+```
+一応ローカル上では上手く行っている。
